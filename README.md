@@ -4,7 +4,7 @@ Here are classnotes and projects of learned Programming languages.
 
 # Languages
 
-- Python
+- [Python](./Python/)
 - C
 - Java
   - Javascript
