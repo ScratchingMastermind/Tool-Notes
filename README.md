@@ -1,8 +1,8 @@
-# Tool Notes
+# Notes
 
 Here are classnotes and projects of learned Programming languages.
 
-# Language
+# Languages
 
 - Python
 - C
