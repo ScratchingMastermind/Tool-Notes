@@ -1,10 +1,10 @@
 # Notes
 
-Here are classnotes and projects of learned Programming languages.
+Here are class notes and projects of learned Programming languages.
 
 # Languages
 
-- [Python](./Python/)
+- [Python](./Python/Python.md)
 - C
 - Java
   - Javascript
