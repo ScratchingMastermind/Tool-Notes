@@ -16,9 +16,9 @@ for friend in friends:
 for friend in range(len(friends)):
     print(friends[friend])
 
-# # you can also use numbers
-# for numbers in range(10):
-#     print(numbers)
-# # Range of numbers
-# for numbers in range(3, 10):
-#     print(numbers)
+# you can also use numbers
+for numbers in range(10):
+    print(numbers)
+# Range of numbers
+for numbers in range(3, 10):
+    print(numbers)
